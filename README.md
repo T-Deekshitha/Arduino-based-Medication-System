@@ -23,12 +23,17 @@ MODEL:
 RESULTS:
 
 ![image](https://github.com/user-attachments/assets/c703d4cc-bb8d-4fa4-af14-087239ad18f4)
+
 LCD screen displaying current date and time in regular mode
 
+
 ![image](https://github.com/user-attachments/assets/0817b312-38c0-4615-a153-cb209eef4daf)
+
  LCD screen displaying chosen time and compartment while giving
  inputs
 
+
  ![image](https://github.com/user-attachments/assets/e1c6fc0a-c043-42e3-b164-51ecf6c42d94)
+
  LED blinking and buzzer sounding at the time set 
 

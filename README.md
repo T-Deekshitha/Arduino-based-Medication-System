@@ -21,6 +21,7 @@ MODEL:
  logic.
 
 RESULTS:
+
 ![image](https://github.com/user-attachments/assets/c703d4cc-bb8d-4fa4-af14-087239ad18f4)
 LCD screen displaying current date and time in regular mode
 
